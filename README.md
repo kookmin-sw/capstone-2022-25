@@ -35,48 +35,14 @@
 
 ### 3. 팀 소개
 
-```
 
-김낙원
+| **_🌎김낙원_** | **_🌍최성민_**| **_🌏김정엽_** | **_🌏박미정_**|
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center">                                                  | <p align="center"><img src="img/lhd.jpeg" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/hhj.jpg" height="120" width="120" align-item="center"></p> |
+| [@nakwon](https://github.com/nakwon)                                            | [@choisony](https://github.com/choisony) | [@letzgorats](https://github.com/letzgorats)                                              | [@xyz-wr](https://github.com/xyz-wr)                                               |
+| `nwkim3254@kookmin.ac.kr` | `choism9854@kookmin.ac.kr`  | `hockey9322@kookmin.ac.kr` | `pponi13468@kookmin.ac.kr` |
+<br><br>
 
-Student ID : 20113254
-E-Mail : nwkim3254@kookmin.ac.kr
-Role : 
-Github : [@nakwon](https://github.com/nakwon)
-
-```
-
-```
-
-최성민
-
-Student ID : 20163166
-E-Mail : choism9854@koomin.ac.kr
-Role : 
-Github : [@choisony](https://github.com/choisony)
-
-```
-
-```
-
-김정엽
-
-Student ID : 20171601
-E-Mail : hockey9322@koomin.ac.kr
-Role : 
-Github : [@letzgorats](https://github.com/letzgorats)
-
-```
-
-```
-박미정
-
-Student ID: 20185285
-E-Mail: pponi13468@kookmin.ac.kr
-Role :
-Github : [@xyz-wr](https://github.com/xyz-wr)
-
-```
 
 ### 4. 사용법
 
