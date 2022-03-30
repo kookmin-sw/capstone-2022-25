@@ -36,7 +36,7 @@
 ### 3. 팀 소개
 
 | **_🌎김낙원_** |
-<img src="https://user-images.githubusercontent.com/28584226/113485108-f80e2e80-94e6-11eb-903b-1b324d57382f.jpeg" alt="image-nakwon" width= 30%/>
+<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-nakwon" width= 30%/>
 ~~~
 학번 : `2011****`
 깃허브 : [@nakwon](https://github.com/nakwon)
@@ -45,7 +45,7 @@ Role : `팀장`
 ~~~
 
 | **_🌎최성민_** |
-<img src="https://user-images.githubusercontent.com/28584226/113485108-f80e2e80-94e6-11eb-903b-1b324d57382f.jpeg" alt="image-jeongyeop" width= 30%/>
+<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-jeongyeop" width= 30%/>
 ~~~
 학번 : `2016****`
 깃허브 : [@choisony](https://github.com/choisony)
@@ -54,7 +54,7 @@ Role : `팀장`
 ~~~
 
 | **_🌎김정엽_** |
-<img src="https://user-images.githubusercontent.com/28584226/113485108-f80e2e80-94e6-11eb-903b-1b324d57382f.jpeg" alt="image-seongmin" width= 30%/>
+<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-seongmin" width= 30%/>
 ~~~
 | 학번 : `2017****`| 
 | 깃허브 : [@letzgorats](https://github.com/letzgorats)                                            |  
@@ -63,7 +63,7 @@ Role : `팀장`
 ~~~
 
 | **_🌎박미정_** |
-<img src="https://user-images.githubusercontent.com/28584226/113485108-f80e2e80-94e6-11eb-903b-1b324d57382f.jpeg" alt="image-mijeong" width= 30%/>
+<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-mijeong" width= 30%/>
 ~~~
 | 학번 : `2018****`| 
 | 깃허브 : [@xyz-wr](https://github.com/xyz-wr)                                            |  
