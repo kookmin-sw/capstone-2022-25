@@ -47,7 +47,7 @@ Role : 팀장
 
 ## **_🌎[최성민](https://github.com/choisony)_**
 
-<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-jeongyeop" width= 30%/>
+<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-seongmin" width= 30%/>
 
 ~~~
 학번 : 2016****
@@ -57,7 +57,7 @@ Role : 팀장
 
 ## **_[🌎김정엽](https://github.com/letzgorats)_**
 
-<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-seongmin" width= 30%/>
+<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-jeongyeop" width= 30%/>
 
 ~~~
 학번 : 2017****
