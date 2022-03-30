@@ -35,45 +35,42 @@
 
 ### 3. 팀 소개
 
-## **_🌎김낙원_**
+## **_🌎[김낙원](https://github.com/nakwon)_**
+
 <img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-nakwon" width= 30%/>
 
 ~~~
 학번 : 2011****
-깃허브 : [@nakwon](https://github.com/nakwon)
 이메일 : nwkim3254@kookmin.ac.kr
 Role : 팀장
 ~~~
 
-## **_🌎최성민_**
+## **_🌎[최성민](https://github.com/choisony)_**
 
 <img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-jeongyeop" width= 30%/>
 
 ~~~
 학번 : 2016****
-깃허브 : [@choisony](https://github.com/choisony)
 이메일 : choism9854@kookmin.ac.kr
 Role : 팀장
 ~~~
 
-## **_🌎김정엽_**
+## **_[🌎김정엽](https://github.com/letzgorats)_**
 
 <img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-seongmin" width= 30%/>
 
 ~~~
 학번 : 2017****
-깃허브 : [@letzgorats](https://github.com/letzgorats)
 이메일 : hockey9322@kookmin.ac.kr
 Role : 팀장
 ~~~
 
-## **_🌎박미정_**
+## **_🌎[박미정](https://github.com/xyz-wr)_**
 
 <img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-mijeong" width= 30%/>
 
 ~~~
-학번 : 2018****| 
-깃허브 : [@xyz-wr](https://github.com/xyz-wr)                                            
+학번 : 2018****|                        
 이메일 : pponi13468@kookmin.ac.kr` 
 Role : 팀장
 ~~~
