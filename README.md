@@ -35,7 +35,7 @@
 
 | **_🌎김낙원_** | **_🌍최성민_**|
 | :---------------------------: | :---------------------------: | 
-|<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="jeongyeop-image" width="50%"> | <img src="https://user-images.githubusercontent.com/77396189/160852649-7156ab23-57da-4a6a-98ed-7117a59690a5.jpg" alt="sungmin-image" width="50%">| 
+|<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="jeongyeop-image" width="200px"> | <img src="https://user-images.githubusercontent.com/77396189/160852649-7156ab23-57da-4a6a-98ed-7117a59690a5.jpg" alt="sungmin-image" width="200px">| 
 | [@nakwon](https://github.com/nakwon) | [@choisony](https://github.com/choisony) |   
 | `nwkim3254@kookmin.ac.kr` | `choism9854@kookmin.ac.kr` |
 | Role : `팀장`| Role : `팀장`|
@@ -45,7 +45,7 @@
 
 | **_🌎김정엽_** | **_🌍박미정_**|
 | :---------------------------: | :---------------------------: | 
-|<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="jeongyeop-image" width="50%"> | <img src="https://user-images.githubusercontent.com/77396189/160852649-7156ab23-57da-4a6a-98ed-7117a59690a5.jpg" alt="sungmin-image" width="50%">| 
+|<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="jeongyeop-image" width="200px"> | <img src="https://user-images.githubusercontent.com/77396189/160852649-7156ab23-57da-4a6a-98ed-7117a59690a5.jpg" alt="sungmin-image" width="200px">| 
 | [@letzgorats](https://github.com/letzgorats)  | [@xyz-wr](https://github.com/xyz-wr)|
 |`hockey9322@kookmin.ac.kr` | `pponi13468@kookmin.ac.kr` | 
 | Role : `팀장`| Role : `팀장`|
