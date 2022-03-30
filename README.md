@@ -35,9 +35,48 @@
 
 ### 3. 팀 소개
 
-팀을 소개하세요.
+```
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
+김낙원
+
+Student ID : 20113254
+E-Mail : nwkim3254@kookmin.ac.kr
+Role : 
+Github : [@nakwon](https://github.com/nakwon)
+
+```
+
+```
+
+최성민
+
+Student ID : 20163166
+E-Mail : choism9854@koomin.ac.kr
+Role : 
+Github : [@choisony](https://github.com/choisony)
+
+```
+
+```
+
+김정엽
+
+Student ID : 20171601
+E-Mail : hockey9322@koomin.ac.kr
+Role : 
+Github : [@letzgorats](https://github.com/letzgorats)
+
+```
+
+```
+박미정
+
+Student ID: 20185285
+E-Mail: pponi13468@kookmin.ac.kr
+Role :
+Github : [@xyz-wr](https://github.com/xyz-wr)
+
+```
 
 ### 4. 사용법
 
