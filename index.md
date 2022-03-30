@@ -37,7 +37,7 @@
 
 | **_🌎김낙원_** |
 | ------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | 
+| ![background2](https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg) | 
 | 학번 : `2011****`| 
 | 깃허브 : [@nakwon](https://github.com/nakwon)                                            |  
 | 이메일 : `nwkim3254@kookmin.ac.kr` | 
@@ -46,7 +46,7 @@
 
 | **_🌎최성민_** |
 | ------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | 
+| ![background2](https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg)| 
 | 학번 : `2016****`| 
 | 깃허브 : [@choisony](https://github.com/choisony)                                            |  
 | 이메일 : `choism9854@kookmin.ac.kr` | 
@@ -55,7 +55,7 @@
 
 | **_🌎김정엽_** |
 | ------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | 
+| ![background2](https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg) | 
 | 학번 : `2017****`| 
 | 깃허브 : [@letzgorats](https://github.com/letzgorats)                                            |  
 | 이메일 : `hockey9322@kookmin.ac.kr` | 
@@ -64,7 +64,7 @@
 
 | **_🌎박미정_** |
 | ------------------------------------------------------------------------------------------- |
-| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | 
+| ![background2](https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg) | 
 | 학번 : `2018****`| 
 | 깃허브 : [@xyz-wr](https://github.com/xyz-wr)                                            |  
 | 이메일 : `pponi13468@kookmin.ac.kr` | 
