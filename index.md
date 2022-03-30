@@ -37,7 +37,7 @@
 
 ## **_🌎[김낙원](https://github.com/nakwon)_**
 
-<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-nakwon" width= 30%/>
+![image-nakwon](https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg)
 
 ~~~
 학번 : 2011****
