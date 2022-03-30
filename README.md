@@ -18,10 +18,7 @@
   - Theme Chooser에서 태마선택
   - 수정후 팀페이지 확인하여 점검.
 
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
-
+**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2022-25/
 
 ## 내용에 아래와 같은 내용들을 추가하세요.
 
@@ -37,11 +34,13 @@
 
 
 | **_🌎김낙원_** | **_🌍최성민_**| **_🌏김정엽_** | **_🌏박미정_**|
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center">                                                  | <p align="center"><img src="img/lhd.jpeg" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/hhj.jpg" height="120" width="120" align-item="center"></p> |
+| :-------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center">                                                  | <p align="center"><img src="img/lhd.jpeg" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/hhj.jpg" height="120" width="120" align-item="center"></p> | 
 | [@nakwon](https://github.com/nakwon)                                            | [@choisony](https://github.com/choisony) | [@letzgorats](https://github.com/letzgorats)                                              | [@xyz-wr](https://github.com/xyz-wr)                                               |
-| `nwkim3254@kookmin.ac.kr` | `choism9854@kookmin.ac.kr`  | `hockey9322@kookmin.ac.kr` | `pponi13468@kookmin.ac.kr` |
-<br><br>
+| `nwkim3254@kookmin.ac.kr` | `choism9854@kookmin.ac.kr`  | `hockey9322@kookmin.ac.kr` | `pponi13468@kookmin.ac.kr` | 
+| Role : `팀장`| Role : `팀장` | Role : `팀장`| Role : `팀장`|
+
+<br>
 
 
 ### 4. 사용법
