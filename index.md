@@ -27,6 +27,7 @@
 
 ### 1. 프로잭트 소개
 
+## HOLY SEAT!
 프로젝트
 
 ### 2. 소개 영상
@@ -37,7 +38,7 @@
 
 ## **_🌎[김낙원](https://github.com/nakwon)_**
 
-<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-nakwon" width= 30%/>
+![nakwon-img](https://user-images.githubusercontent.com/77396189/160861515-65dc116d-8719-4f74-9415-b7411fe94d83.jpg)
 
 ~~~
 학번 : 2011****
@@ -47,7 +48,7 @@ Role : 팀장
 
 ## **_🌎[최성민](https://github.com/choisony)_**
 
-<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-seongmin" width= 30%/>
+![jeongyeop-img](https://user-images.githubusercontent.com/77396189/160861516-d39bab40-6de4-4212-9d8b-661009cce46e.jpg)
 
 ~~~
 학번 : 2016****
@@ -57,7 +58,7 @@ Role : 팀장
 
 ## **_[🌎김정엽](https://github.com/letzgorats)_**
 
-<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-jeongyeop" width= 30%/>
+![jeongyeop-img](https://user-images.githubusercontent.com/77396189/160860314-411bee34-09bd-4f1e-8d2e-da7cbfd66a9c.jpg)
 
 ~~~
 학번 : 2017****
@@ -67,7 +68,7 @@ Role : 팀장
 
 ## **_🌎[박미정](https://github.com/xyz-wr)_**
 
-<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="image-mijeong" width= 30%/>
+![!mijeong-img](https://user-images.githubusercontent.com/77396189/160861511-8052666a-d04d-44dd-bbb4-eca3713f981d.jpg)
 
 ~~~
 학번 : 2018****|                        
