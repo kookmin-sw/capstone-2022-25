@@ -35,13 +35,41 @@
 
 ### 3. 팀 소개
 
-| **_🌎김낙원_** | **_🌍최성민_**| **_🌏김정엽_** | **_🌏박미정_**|
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center">                                                  | <p align="center"><img src="img/lhd.jpeg" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/hhj.jpg" height="120" width="120" align-item="center"></p> |
-| [@nakwon](https://github.com/nakwon)                                            | [@choisony](https://github.com/choisony) | [@letzgorats](https://github.com/letzgorats)                                              | [@xyz-wr](https://github.com/xyz-wr)                                               |
-| `nwkim3254@kookmin.ac.kr` | `choism9854@kookmin.ac.kr`  | `hockey9322@kookmin.ac.kr` | `pponi13468@kookmin.ac.kr` |
-<br><br>
+| **_🌎김낙원_** |
+| ------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | 
+| 학번 : `2011****`| 
+| 깃허브 : [@nakwon](https://github.com/nakwon)                                            |  
+| 이메일 : `nwkim3254@kookmin.ac.kr` | 
+| Role : `팀장`|
+<br>
 
+| **_🌎최성민_** |
+| ------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | 
+| 학번 : `2016****`| 
+| 깃허브 : [@choisony](https://github.com/choisony)                                            |  
+| 이메일 : `choism9854@kookmin.ac.kr` | 
+| Role : `팀장`|
+<br>
+
+| **_🌎김정엽_** |
+| ------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | 
+| 학번 : `2017****`| 
+| 깃허브 : [@letzgorats](https://github.com/letzgorats)                                            |  
+| 이메일 : `hockey9322@kookmin.ac.kr` | 
+| Role : `팀장`|
+<br>
+
+| **_🌎박미정_** |
+| ------------------------------------------------------------------------------------------- |
+| <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p> | 
+| 학번 : `2018****`| 
+| 깃허브 : [@xyz-wr](https://github.com/xyz-wr)                                            |  
+| 이메일 : `pponi13468@kookmin.ac.kr` | 
+| Role : `팀장`|
+<br>
 
 ### 4. 사용법
 
