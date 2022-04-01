@@ -68,7 +68,7 @@ Role : 팀장
 
 ## **_🌎[박미정](https://github.com/xyz-wr)_**
 
-![mijeong-img](https://user-images.githubusercontent.com/77396189/161205223-1289d568-32f6-46ea-b7a8-70f673ea179a.jpg)
+![mijeong-img](https://user-images.githubusercontent.com/63355903/161225592-73428cee-03d8-4f66-8529-80781a514cde.jpg)
 
 ~~~
 학번 : 2018****|                        
