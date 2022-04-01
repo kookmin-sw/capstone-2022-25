@@ -40,7 +40,7 @@
 | **_🌎김낙원_** | **_🌍최성민_**|
 | :-------------------------------: | :-------------------------------:| 
 |<img src="https://user-images.githubusercontent.com/77396189/160855558-885b3867-f80e-4692-8d2b-764a559c2271.jpg" alt="nakwon-image" width="230px" height="280px"> | <img src="https://user-images.githubusercontent.com/77396189/160852649-7156ab23-57da-4a6a-98ed-7117a59690a5.jpg" alt="sungmin-image" width="230px" height="280px">|
-| 학번 : `2011xxxx`| 학번 : `2016xxxx` |
+| 학번 : `2011xxxx`| 학번 : `20163166` |
 | 깃허브 : [@nakwon](https://github.com/nakwon) | 깃허브 : [@choisony](https://github.com/choisony) |   
 | 이메일 : `nwkim3254@kookmin.ac.kr` | 이메일: `choism9854@kookmin.ac.kr` |
 | Role : `팀장`| Role : `팀장`|
