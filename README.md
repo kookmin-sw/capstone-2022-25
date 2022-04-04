@@ -1,9 +1,11 @@
+**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2022-25/
 
 
 
 
+### 1. 프로젝트 소개
 
-### 1. 프로잭트 소개
+
 
 ## HOLY SEAT !
 
@@ -42,6 +44,5 @@
 ### 5. 기타
 
 
-**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2022-25/
 
 자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
