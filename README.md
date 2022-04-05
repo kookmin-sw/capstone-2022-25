@@ -41,7 +41,7 @@
 | 학번 : `2011xxxx`| 학번 : `20163166` |
 | 깃허브 : [@nakwon](https://github.com/nakwon) | 깃허브 : [@choisony](https://github.com/choisony) |   
 | 이메일 : `nwkim3254@kookmin.ac.kr` | 이메일: `choism9854@kookmin.ac.kr` |
-| Role : `팀장`| Role : `팀장`|
+| Role : `팀장, 앱 설계(Front-Back)`| Role : `앱(FrontEnd&BackEnd)`|
 
 <br>
 
@@ -51,7 +51,7 @@
 | 학번 : `20171601` | 학번 : `20185285` |
 | 깃허브 : [@letzgorats](https://github.com/letzgorats) | 깃허브 : [@xyz-wr](https://github.com/xyz-wr)|
 | 이메일 : `hockey9322@kookmin.ac.kr` | 이메일: `pponi13468@kookmin.ac.kr` | 
-| Role : `팀장`| Role : `팀장`|
+| Role : `앱(FrontEnd&BackEnd)`| Role : `UI/UX 디자인 & FrontEnd`|
 <br>
 
 ### 4. 사용법
@@ -59,7 +59,3 @@
 소스코드제출시 설치법이나 사용법을 작성하세요.
 
 ### 5. 기타
-
-
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
