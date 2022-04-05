@@ -1,6 +1,7 @@
-**🎵 ![25팀 팀페이지](https://kookmin-sw.github.io/capstone-2022-25/🎵)**
+## ❗️ Holy Seat ❗️
+**🎵 팀페이지주소 -> https://kookmin-sw.github.io/capstone-2022-25)**
 
-### 1. 프로젝트 소개
+### 📝 프로젝트 소개 📝
 ![로고](https://user-images.githubusercontent.com/77396189/161648406-3f7ee51f-3838-4bb0-bfba-bd3ba7c7c539.png)
 
  코로나가 터진 이후에도 뮤지컬에 대한 수요는 날이 갈수록 증가하고 있다. KOPIS에 따르면, 극장이 문을 닫아 접근이 어려웠던 작년에도 관객이 유료로 관람한 공연 영상에서 뮤지컬 장르가 가장 높은 비중을 차지했다. 심지어 89.5%의 수치로 단연 1위다. 
@@ -17,7 +18,7 @@
 
 👑 뮤지컬 특성상 사람들의 좌석의 선호도가 고정되곤 하는데, 다른 좌석에 대한 궁금증도 있을 것이다. 뮤지컬은 영화나 다른 공연에 비해 가격이 비싼 여가활동으로 좋은 자리를 선택하는 것에 대해 신중함이 있을 것이다. 어떤 좌석에 앉을지 고민해보고 싶다면 Holy Seat을 찾아라!
 
-## Abstract
+## 📝 Abstract 📝
 
 
 - Even after the outbreak of COVID-19, the demand for musicals is increasing day by day. According to KOPIS, the musical genre accounted for the highest proportion of performance videos watched by the audience for a fee last year when the theater was closed and it was difficult to access. It is even ranked first with a figure of 89.5 percent. Demand for cultural performances and exhibitions is reportedly recovering in the wake of the recent easing of distance and outdoor activity season. In particular, according to a survey conducted on 11th Street until March this year, ticket sales doubled compared to last year. As the past proves, as time goes by, the demand for musicals will continue to increase.
@@ -25,11 +26,11 @@
 - In this popular musical field, there is somewhat little space to share reviews with each other. In particular, the color of the musical felt by each seat may be different. Since it is not a simple video from the same 2D plane as in the movie, there may be a wide variety of factors that each seat feels as well as each theater, such as actors' movements, stage production, and audio-visual effects. This project provides a window for people to share reviews about musicals they watched. In particular, by providing seat reviews for each theater where musicals are performed, I would like to let you know how one musical is different for each area and how people feel. The color mark reflects people's preferences and reviews for each seat, and allows people who want to watch a musical to think about what seats would be good in advance. In addition, while providing a representative musical schedule in the future, it provides overall reviews so that people can see reviews of musicals or similar musicals that will be re-released at existing theaters.
 
 
-### 2. 소개 영상
+### 🎥 소개 영상 🎥
 
   - 추후 업로드
 
-### 3. 팀 소개
+###  🙋 팀 소개 🙋
 
 
 | **_🌎김낙원_** | **_🌍최성민_**|
