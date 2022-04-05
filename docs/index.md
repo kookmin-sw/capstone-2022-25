@@ -68,7 +68,7 @@ Role : 팀장
 
 ## **_🌎[박미정](https://github.com/xyz-wr)_**
 
-![mijeong-img](https://user-images.githubusercontent.com/63355903/161226012-d7fddfbb-8ad6-4bad-b128-2e10f265c829.jpg)
+![mijeong-img](https://user-images.githubusercontent.com/77396189/161692319-984ceac9-3223-453e-87b4-3e5c0dcafbd3.jpg)
 
 ~~~
 학번 : 2018****|                        
@@ -83,32 +83,3 @@ Role : 팀장
 ### 5. 기타
 
 추가적인 내용은 자유롭게 작성하세요.
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
