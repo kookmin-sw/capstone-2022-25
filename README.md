@@ -46,7 +46,7 @@
 
 | **_🌎김정엽_** | **_🌍박미정_**|
 | :-------------------------------: | :-------------------------------:| 
-|<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="jeongyeop-image" width="230px" height="280px">| <img src="https://user-images.githubusercontent.com/77396189/161692319-984ceac9-3223-453e-87b4-3e5c0dcafbd3.jpg" alt="mijeong-image" width="230px" height="280px">|
+|<img src="https://user-images.githubusercontent.com/77396189/160841958-7d77efbf-cf60-48c4-bc50-c3def00f4b38.jpg" alt="jeongyeop-image" width="230px" height="280px">| <img src="https://user-images.githubusercontent.com/77396189/161692319-984ceac9-3223-453e-87b4-3e5c0dcafbd3.jpg" alt="mijeong-image">|
 | 학번 : `****1601` | 학번 : `****5285` |
 | 깃허브 : [@letzgorats](https://github.com/letzgorats) | 깃허브 : [@xyz-wr](https://github.com/xyz-wr)|
 | 이메일 : `hockey9322@kookmin.ac.kr` | 이메일: `pponi13468@kookmin.ac.kr` | 
