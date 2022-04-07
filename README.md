@@ -54,6 +54,9 @@
 
 <br>
 
+### 🎹 주요 기능 🎹
+
+![주요기능](https://user-images.githubusercontent.com/77396189/162107777-9168ea16-7bdf-4a2e-abec-d344e6f244c0.jpg)
 
 ### 4. 사용법
 
