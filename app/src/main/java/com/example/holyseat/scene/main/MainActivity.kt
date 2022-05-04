@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         findViewById<TextView>(R.id.title).text = "hello"
+        findViewById<TextView>(R.id.title).text = "ByeBye"
+
     }
 }
