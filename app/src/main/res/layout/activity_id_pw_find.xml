@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".scene.idpwfind.IdPwFindActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        >
+
+        <ImageView
+            android:id="@+id/idSearch_img"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/holyseatlogo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"></ImageView>
+
+        <TextView
+            android:id="@+id/txtIdSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="아이디 찾기"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@id/idSearch_img"
+            app:layout_constraintStart_toStartOf="@+id/idSearch_img"
+            app:layout_constraintTop_toBottomOf="@id/idSearch_img" />
+
+        <TextView
+            android:id="@+id/txtview_idsearch_name"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:text="이름"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/idSearch_name"
+            app:layout_constraintEnd_toStartOf="@id/idSearch_name"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/idSearch_name" />
+
+        <EditText
+            android:id="@+id/idSearch_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="100dp"
+            android:hint="이름 입력"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="@id/idSearch_img"
+            app:layout_constraintStart_toStartOf="@id/idSearch_img"
+            app:layout_constraintTop_toBottomOf="@+id/txtIdSearch" />
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:text="생년월일"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/idSearch_birth"
+            app:layout_constraintEnd_toStartOf="idSearch_birth"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/idSearch_birth" />
+
+        <EditText
+            android:id="@+id/idSearch_birth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="100dp"
+            android:hint="ex) 980905"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/idSearch_name" />
+
+
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:text="찾기"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/idSearch_birth"
+            app:layout_constraintTop_toBottomOf="@+id/idSearch_birth"
+
+            />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="350dp">
+
+        <ImageView
+            android:id="@+id/pwSearch_img"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/holyseatlogo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"></ImageView>
+
+        <TextView
+            android:id="@+id/txtPwSearch"
+            android:text="비밀번호 찾기"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="@+id/pwSearch_img"
+            app:layout_constraintEnd_toEndOf="@id/pwSearch_img"
+            app:layout_constraintTop_toBottomOf="@id/pwSearch_img"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:id="@+id/txtview_pwsearch_ID"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:text="아이디"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/pwSearch_ID"
+            app:layout_constraintEnd_toStartOf="@id/pwSearch_ID"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/pwSearch_ID" />
+
+        <EditText
+            android:id="@+id/pwSearch_ID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="100dp"
+            android:hint="아이디 입력"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="@id/pwSearch_img"
+            app:layout_constraintStart_toStartOf="@id/pwSearch_img"
+            app:layout_constraintTop_toBottomOf="@+id/txtPwSearch" />
+
+
+
+
+        <TextView
+            android:id="@+id/txtview_pwsearch_name"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:text="이름"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/pwSearch_name"
+            app:layout_constraintEnd_toStartOf="@id/pwSearch_name"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/pwSearch_name" />
+
+        <EditText
+            android:id="@+id/pwSearch_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="100dp"
+            android:hint="이름 입력"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="@id/pwSearch_img"
+            app:layout_constraintStart_toStartOf="@id/pwSearch_img"
+            app:layout_constraintTop_toBottomOf="@+id/pwSearch_ID" />
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:text="생년월일"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/pwSearch_birth"
+            app:layout_constraintEnd_toStartOf="idSearch_birth"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/pwSearch_birth" />
+
+        <EditText
+            android:id="@+id/pwSearch_birth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="100dp"
+            android:hint="ex) 980905"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/pwSearch_name" />
+
+
+        <Button
+            android:text="찾기"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            app:layout_constraintStart_toEndOf="@+id/pwSearch_birth"
+            app:layout_constraintTop_toBottomOf="@+id/pwSearch_birth"
+            app:layout_constraintEnd_toEndOf="parent"
+
+            />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,6 +1,7 @@
-package com.example.holyseat
+package com.example.holyseat.scene
 
 import android.app.Application
+import com.example.holyseat.appModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
@@ -9,7 +10,7 @@ class MyApplication: Application() {
         super.onCreate()
 
         startKoin {
-            androidContext(this@MyApplication)
+            androidContext(this@MyApplication                                                                  )
             modules(appModule)
         }
     }

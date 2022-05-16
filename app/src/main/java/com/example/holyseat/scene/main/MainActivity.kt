@@ -1,11 +1,13 @@
 package com.example.holyseat.scene.main
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.view.ViewTreeObserver
 import android.widget.TextView
 import com.example.holyseat.R
+import com.example.holyseat.scene.recentreview.TwelveActivity
 import org.koin.android.ext.android.inject
 import kotlin.concurrent.thread
 
@@ -16,8 +18,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        findViewById<TextView>(R.id.title).text = "hello"
-        findViewById<TextView>(R.id.title).text = "ByeBye"
-
+        val intent = Intent(this, TwelveActivity::class.java)
+        startActivity(intent)
     }
 }
