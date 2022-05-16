@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HolySeat</string>
+    <string name="date">관람일자</string>
+    <string name="theater_shalotte">샤롯데씨어터</string>
+    <string name="theater">공연장</string>
+    <string name="jikil">지킬 앤 하이드</string>
+    <string name="musical">뮤지컬</string>
 </resources>

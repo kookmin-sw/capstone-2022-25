@@ -12,7 +12,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HolySeat">
-
+        <activity
+            android:name=".scene.write_result_4.write_result_4"
+            android:exported="false" />
+        <activity
+            android:name=".scene.write_result_3.Write_result_3"
+            android:exported="false" />
+        <activity
+            android:name=".scene.write_result_1.Write_result_1"
+            android:exported="false" />
+        <activity
+            android:name=".scene.useralarm.UserAlarmActivity"
+            android:exported="true" />
         <activity
             android:name=".scene.splash.SplashActivity"
             android:exported="true"

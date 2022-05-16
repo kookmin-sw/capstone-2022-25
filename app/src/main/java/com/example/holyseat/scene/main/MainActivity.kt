@@ -1,13 +1,14 @@
 package com.example.holyseat.scene.main
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.view.ViewTreeObserver
-import android.widget.TextView
 import com.example.holyseat.R
+import com.example.holyseat.scene.useralarm.UserAlarmActivity
+import com.example.holyseat.scene.write_result_1.Write_result_1
+import com.example.holyseat.scene.write_result_3.Write_result_3
 import org.koin.android.ext.android.inject
-import kotlin.concurrent.thread
+
 
 class MainActivity : AppCompatActivity() {
     private val viewModel: MainViewModel by inject()
@@ -16,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        findViewById<TextView>(R.id.title).text = "hello__"
+        val intent = Intent(this, Write_result_3::class.java)
+        startActivity(intent)
     }
 }
