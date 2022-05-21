@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136059443398",
+    "firebase_url": "https://holyseat-26645-default-rtdb.firebaseio.com",
+    "project_id": "holyseat-26645",
+    "storage_bucket": "holyseat-26645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136059443398:android:2e96a634caf4ca731fdfc7",
+        "android_client_info": {
+          "package_name": "learning.kotlin.part2.holyseat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136059443398-odltnjni77d3r52f9guv1gq8tsufbdaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "learning.kotlin.part2.holyseat",
+            "certificate_hash": "985bd270f57eb1d62b1d152cad66f08d417dafb4"
+          }
+        },
+        {
+          "client_id": "136059443398-67dv5pf9ob41gob2k37t2ujj4e8i2a49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnwgusRMxZ7Wy9Yj7vRzU6R38zxLFMUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136059443398-67dv5pf9ob41gob2k37t2ujj4e8i2a49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
