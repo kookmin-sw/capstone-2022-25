@@ -56,13 +56,13 @@
 
 ### 🎹 주요 기능 🎹
 
-![주요기능]
+![주요기능] (https://user-images.githubusercontent.com/63355903/170543815-510c2896-b88c-4c60-9606-442fa2966b34.PNG)
 
 <br>
 
 ### 🎹 프로젝트 구성도 🎹
 
-![프로젝트 구성도](https://user-images.githubusercontent.com/63355903/170543815-510c2896-b88c-4c60-9606-442fa2966b34.PNG)
+![프로젝트 구성도](https://user-images.githubusercontent.com/63355903/170544069-0209616d-f9d5-4061-bd8f-ca2f790f411d.png)
 
 ### 4. 사용법
 
