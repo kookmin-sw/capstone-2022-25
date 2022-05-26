@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp">
+
+                    <ImageView
+                        android:id="@+id/category1"
+                        android:src="@drawable/all"
+                        android:layout_weight="1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                    <ImageView
+                        android:id="@+id/category2"
+                        android:src="@drawable/creativity"
+                        android:layout_weight="1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                    <ImageView
+                        android:src="@drawable/dancing"
+                        android:layout_weight="1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                    <ImageView
+                        android:src="@drawable/jukebox"
+                        android:layout_weight="1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:text="전체"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:text="창작 뮤지컬"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:text="댄스 뮤지컬"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:text="주크박스 뮤지컬"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp">
+
+                    <ImageView
+                        android:src="@drawable/songthrough"
+                        android:layout_weight="1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                    <ImageView
+
+                        android:src="@drawable/license"
+                        android:layout_weight="1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                    <ImageView
+                        android:src="@drawable/original"
+                        android:layout_weight="1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                    <ImageView
+                        android:src="@drawable/actormusic"
+                        android:layout_weight="1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:text="송스루 뮤지컬"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:text="라이선스 뮤지컬"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:text="오리지널 뮤지컬"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:text="액터-뮤지션      뮤지컬"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_weight="1"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/background_radius_red"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:text="뮤지컬 레베카 너무 재밌어요! 강추드립니다!👍👍"
+                        android:layout_width="wrap_content"
+                        android:layout_margin="10dp"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:text="서울예술공연극장을 갔다왔는데 앞줄에서는 배우가 잘 안보였어요😅"
+                        android:layout_margin="10dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:text="오페라의 유령 왤케 소름돋음??"
+                        android:layout_margin="10dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                </LinearLayout>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/mainRV"
+                    android:layout_width="match_parent"
+                    android:layout_height="600dp"/>
+
+
+            </LinearLayout>
+
+        </ScrollView>
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            app:layout_constraintBottom_toTopOf="@+id/linearLayout">
+
+            <LinearLayout
+                android:background="@color/mainColor"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@color/white"
+            android:weightSum="5"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <ImageView
+                android:id="@+id/homeTap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/home" />
+
+            <ImageView
+                android:id="@+id/tipTap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/genre" />
+
+            <ImageView
+                android:id="@+id/talkTap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/talk" />
+
+            <ImageView
+                android:id="@+id/bookmarkTap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/bookmark" />
+
+            <ImageView
+                android:id="@+id/storeTap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/internet" />
+
+        </LinearLayout>
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

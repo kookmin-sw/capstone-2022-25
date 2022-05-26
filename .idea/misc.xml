@@ -3,6 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/drawable/background_radius.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/drawable/background_radius_red.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/drawable/network_config.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_board_edit.xml" value="0.1" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_board_inside.xml" value="0.16" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_board_write.xml" value="0.1" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_content_show.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_contents_list.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_google_login.xml" value="0.10625" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_join.xml" value="0.1" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/board_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/comment_list_item.xml" value="0.5" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/content_rv_item.xml" value="0.15443840579710144" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/custom_dialog.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/fragment_bookmark.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/fragment_genre.xml" value="0.25" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/fragment_site.xml" value="0.12" />
+        <entry key="..\:/Users/KJY/AndroidStudioProjects/HolySeat/app/src/main/res/layout/fragment_talk.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/KJY/OneDrive/workspace/app/src/main/res/drawable/background_radius.xml" value="0.1" />
         <entry key="..\:/Users/KJY/OneDrive/workspace/app/src/main/res/drawable/background_radius_red.xml" value="0.8928571428571429" />
         <entry key="..\:/Users/KJY/OneDrive/workspace/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
