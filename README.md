@@ -56,8 +56,10 @@
 
 ### 🎹 주요 기능 🎹
 
-![주요기능](https://user-images.githubusercontent.com/77396189/162107777-9168ea16-7bdf-4a2e-abec-d344e6f244c0.jpg)
-
+![주요기능](https://user-images.githubusercontent.com/63355903/170542794-9eb0a676-e575-48d3-9d6b-b7fc4a5c68d5.png)
+(https://user-images.githubusercontent.com/63355903/170542811-a1fa6759-b5a1-4248-bf71-d2624e1ad2a4.png)
+(https://user-images.githubusercontent.com/63355903/170543123-7b22b13b-09cb-4236-b259-087ea2c55be7.png)
+(https://user-images.githubusercontent.com/63355903/170543155-2f6bce09-a4a8-43f0-963c-ce1250bf5c08.png)
 <br>
 
 ### 🎹 프로젝트 구성도 🎹
