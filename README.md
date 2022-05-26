@@ -62,7 +62,7 @@
 
 ### 🎹 프로젝트 구성도 🎹
 
-![프로젝트 구성도](https://user-images.githubusercontent.com/77396189/162157291-42009029-2c7d-466e-ae0f-c2ace8eb5968.jpg)
+![프로젝트 구성도](https://user-images.githubusercontent.com/63355903/170520347-341f1d9e-987f-4698-9a36-1ccdcff83b89.png)
 
 ### 4. 사용법
 
