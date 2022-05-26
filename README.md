@@ -28,7 +28,8 @@
 
 ### 🎥 소개 영상 🎥
 
-  - 추후 업로드
+  - #### 어플 시연영상
+  - <video width="100%" height="100%" controls="controls"> <source src="/docs/시연영상어플.mp4" type="video/mp4"></video>
 
 ###  🙋 팀 소개 🙋
 
