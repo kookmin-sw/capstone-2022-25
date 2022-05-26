@@ -29,7 +29,7 @@
 ### 🎥 소개 영상 🎥
 
   - #### 어플 시연영상
-  - <video width="100%" height="100%" controls="controls"> <source src="/docs/시연영상어플.mp4" type="video/mp4"></video>
+  [![Video Label](https://user-images.githubusercontent.com/77396189/170553349-d9c9d39e-a1e2-47b8-bfcb-12d3b0e7d56a.PNG)](https://youtu.be/5e_x9pwVz0U)
 
 ###  🙋 팀 소개 🙋
 
