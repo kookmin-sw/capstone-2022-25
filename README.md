@@ -56,7 +56,7 @@
 
 ### 🎹 주요 기능 🎹
 
-![주요기능] (https://user-images.githubusercontent.com/63355903/170543815-510c2896-b88c-4c60-9606-442fa2966b34.PNG)
+![주요기능](https://user-images.githubusercontent.com/63355903/170543815-510c2896-b88c-4c60-9606-442fa2966b34.PNG)
 
 <br>
 
