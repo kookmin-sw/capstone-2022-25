@@ -29,8 +29,8 @@
 ### 🎥 소개 영상 🎥
 
   - #### 어플 시연영상
-  [![Video Label](https://user-images.githubusercontent.com/77396189/170553349-d9c9d39e-a1e2-47b8-bfcb-12d3b0e7d56a.PNG)](https://youtu.be/5e_x9pwVz0U)
-
+  [![Video Label](https://user-images.githubusercontent.com/77396189/170558391-0d58a9bb-81db-43b5-ba34-e82434b8a74a.png)](https://youtu.be/vYJD95fVWCs)
+  
 ###  🙋 팀 소개 🙋
 
 
